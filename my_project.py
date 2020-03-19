@@ -1,3 +1,7 @@
+import numpy
+import time
+import mdfreader
+
 x = abs(2)
 
 a = 1
